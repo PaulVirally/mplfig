@@ -36,3 +36,11 @@ axes[0].lines[0].set_marker('o') # Add a circle marker
 plt.show()
 ```
 ![After](example_after.png)
+
+Install
+=======
+
+mplfig is on PyPI
+```sh
+pip3 install -U mplfig
+```
