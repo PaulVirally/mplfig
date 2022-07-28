@@ -19,6 +19,7 @@ mplfig.save_figure(plt.gcf(), 'myfig.mplpkl')
 
 plt.show()
 ```
+![Before](example_before.png)
 
 Next, load it back up and change the figure!
 ```python
@@ -34,3 +35,4 @@ axes[0].lines[0].set_marker('o') # Add a circle marker
 
 plt.show()
 ```
+![After](example_after.png)
