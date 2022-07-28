@@ -1,5 +1,5 @@
 TODO
 ====
 
-[ ] Support projections
-[ ] Support subfigures
+- [ ] Support projections
+- [ ] Support subfigures

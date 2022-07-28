@@ -1,7 +1,7 @@
 mplfig
 ======
 
-Matplotlib by default only allows you to export your figures in formats that are used for publishing (e.g., a `.pgf` file, a resterized `.png` file, etc.). MATLAB allows you to save files in a `.fig` format which allows you to change the plot very easily (say, to fix a typo on an axis label, or to change the colorscheme). mplfig strives to bring this functioinality to matplotlib. With mplfig, you can save your matplotlib files and load them right back up in another python script.
+Matplotlib by default only allows you to export your figures in formats that are used for publishing (e.g., a `.pgf` file, a resterized `.png` file, etc.). MATLAB allows you to save files in a `.fig` format which allows you to change the plot very easily (say, to fix a typo on an axis label, or to change the colorscheme). mplfig strives to bring this functionality to matplotlib. With mplfig, you can save your matplotlib files and load them right back up in another python script.
 
 Example
 =======
